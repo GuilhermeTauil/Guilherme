@@ -23,7 +23,7 @@ export default function Home() {
               Web developer front-end react.js and next.js
             </h2>
             <div className="  flex justify-center my-10 sm:my-20">
-              <img className="  w-9 sm:w-60" src="g.png" />
+              <img className="  w-9 sm:w-60" src="G.png" />
             </div>
           </div>
         </div>
